@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm rohaanullahllc-ux 👋</h1>
+<h1 align="center">Hi, I'm Rohaanullah Khan 👋</h1>
 <h3 align="center">Programmer & Cybersecurity Practitioner</h3>
 
 <p align="center">
@@ -20,6 +20,8 @@
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -40,13 +42,26 @@
 
 ---
 
-### 💻 Development Repos
+### 🌐 Freelance Portfolio Website
 
-| Repo | Description |
-|---|---|
-| [c-programming-fundamentals](https://github.com/rohanullahllc-ux/c-programming-fundamentals) | C coursework — variables, data types, debugging integer/float division bugs, with before/after bug writeups |
+My live freelance portfolio — [rohaandigital.site](https://www.rohaandigital.site) · [source code](https://github.com/rohanullahllc-ux/Portfolio-Website)
 
-*More repos added here as I keep building and committing.*
+---
+
+### 🕰️ Legacy Project — Jarvis AI
+
+A personal voice assistant project — [New-Jarvis](https://github.com/rohanullahllc-ux/New-Jarvis). An earlier build, kept here as a record of where I started with larger, more ambitious projects.
+
+---
+
+### 🧰 Other Project Stack
+
+| Repo | Stack | Description |
+|---|---|---|
+| [Influencer-Marketing-App](https://github.com/rohanullahllc-ux/Influencer-Marketing-App) | TypeScript | SaaS app |
+| [Mack-AI-AGENT](https://github.com/rohanullahllc-ux/Mack-AI-AGENT) | Python | AI agent |
+| [meta-ads-automator](https://github.com/rohanullahllc-ux/meta-ads-automator) | TypeScript | Meta Ads automation tool |
+| [missed-call-email-back](https://github.com/rohanullahllc-ux/missed-call-email-back) | TypeScript | Missed-call-to-email automation |
 
 ---
 
