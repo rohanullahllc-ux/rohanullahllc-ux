@@ -71,13 +71,13 @@ A personal voice assistant project — [New-Jarvis](https://github.com/rohanulla
 
 ---
 
-### 🎓 Uni Projects (C / C++)
+### 🎓 Uni Projects (C)
 
 | Project | Language | Link |
 |---|---|---|
 | C Programming Fundamentals | C | [View repo](https://github.com/rohanullahllc-ux/c-programming-fundamentals) |
-| *(second project — pending)* | C++ | *coming soon* |
 
 ---
 
 <p align="center"><i>Last updated: committing as I learn.</i></p>
+
