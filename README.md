@@ -79,5 +79,14 @@ A personal voice assistant project — [New-Jarvis](https://github.com/rohanulla
 
 ---
 
+### 🔗 Connect
+
+<p align="center">
+  <a href="https://x.com/RohaanullahLLC"><img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter"/></a>
+  <a href="https://www.linkedin.com/in/rohaanullah-khan-00b04337a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
+
+---
+
 <p align="center"><i>Last updated: committing as I learn.</i></p>
 
